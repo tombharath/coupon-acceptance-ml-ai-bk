@@ -16,7 +16,7 @@ Imagine driving through town and a coupon is delivered to your cell phone for a 
 - Imputing those columns with NaN with the most occurrence of the value for that column
 
 **Code**
-- Refer to prompt.ipynb for the jupyter notebook for the python code.
+- Refer to [prompt.ipynb](https://github.com/tombharath/coupon-acceptance-ml-ai-bk/blob/main/prompt.ipynb) for the jupyter notebook for the python code.
 - The code uses Plotly express libraries. As GitHub doesn't display plotly chart correctly. The renderer is used to show it as a picture.
 - You can change the fig.show("png") to fig.show() in the jupyter notebook python code to have the hover functionality while running it.
  
