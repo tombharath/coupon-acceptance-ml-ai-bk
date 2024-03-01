@@ -81,6 +81,6 @@ The acceptance rate of the coupon is 56.76 %
 
 ![image](https://github.com/tombharath/coupon-acceptance-ml-ai-bk/assets/37302704/2516db17-717a-4071-bdbd-a7b1edeae6c2)
 
-## Next Steps
+## Recommended Next Steps
 
 Collect more data and develop a model to find patterns of our data and to make future prediction for business purpose.
